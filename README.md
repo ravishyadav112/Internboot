@@ -1,3 +1,5 @@
+<h1># Internboot
+</h1>
 # 🩺 Diabetes Prediction using Machine Learning
 
 This project predicts the likelihood of diabetes in patients using various machine learning algorithms.  
@@ -63,4 +65,3 @@ The dataset contains medical attributes such as glucose level, BMI, age, and mor
 - **BMI** and **Age** are also significant indicators.  
 - Random Forest outperformed other models, showing robustness for medical datasets.  
 - Feature scaling improved KNN and Logistic Regression performance.  
-# Internboot
